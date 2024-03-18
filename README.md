@@ -1,4 +1,6 @@
-### Hi there 👋
+### Mobile App Project
+- 타이머와 투두리스트를 합친 플래너 앱 개발
+- 주로 달력부분 제작을 맡음
 
 <!--
 **anyooin/anyooin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
