@@ -1,6 +1,6 @@
 ### Mobile App Project
-- 타이머와 투두리스트를 합친 플래너 앱 개발
-- 주로 달력부분 제작을 맡음
+- 타이머 기능과 투두리스트 기능을 합친 플래너 앱 개발
+- 투두리스트(달력)부분 제작 및 총괄
 
 <!--
 **anyooin/anyooin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
